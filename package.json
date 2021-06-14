@@ -1,7 +1,7 @@
 {
-  "name": "sms-gaming",
+  "name": "test-twilio-ga",
   "version": "1.0.0",
-  "description": "Gaming platform powered by Twilio SMS.",
+  "description": "Fetch Google Analytics insights using Twilio & WhatsApp",
   "main": "lib/app.js",
   "scripts": {
     "start": "nodemon lib/app.js"
@@ -10,13 +10,14 @@
     "node": ">=12.0.0"
   },
   "engineStrict": true,
-  "author": "Vladimir Mikulic <vladimir.mikulic2@gmail.com>",
+  "author": "Gilad Resisi <giladresisi@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "cookie-session": "^1.4.0",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
+    "googleapis": "^76.0.0",
     "html-entities": "^2.3.2",
     "moji-translate": "^1.0.8",
     "nanoid": "^3.1.23",
