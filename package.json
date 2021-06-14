@@ -14,9 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
+    "cookie-session": "^1.4.0",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
-    "express-session": "^1.17.1",
     "html-entities": "^2.3.2",
     "moji-translate": "^1.0.8",
     "nanoid": "^3.1.23",
