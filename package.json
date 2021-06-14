@@ -20,6 +20,7 @@
     "html-entities": "^2.3.2",
     "moji-translate": "^1.0.8",
     "nanoid": "^3.1.23",
+    "nodemon": "^2.0.7",
     "random-words": "^1.1.1",
     "superb": "^4.0.0",
     "twilio": "^3.62.0",
@@ -28,7 +29,6 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.26.0",
-    "nodemon": "^2.0.7"
+    "eslint": "^7.26.0"
   }
 }
