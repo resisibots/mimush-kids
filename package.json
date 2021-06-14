@@ -26,6 +26,7 @@
     "superb": "^4.0.0",
     "twilio": "^3.62.0",
     "txtgen": "^2.2.8",
+    "underscore": "^1.13.1",
     "validator": "^13.6.0"
   },
   "devDependencies": {
