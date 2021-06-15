@@ -19,6 +19,7 @@
     "express": "^4.17.1",
     "googleapis": "^76.0.0",
     "html-entities": "^2.3.2",
+    "lodash": "^4.17.21",
     "moji-translate": "^1.0.8",
     "nanoid": "^3.1.23",
     "nodemon": "^2.0.7",
@@ -26,7 +27,6 @@
     "superb": "^4.0.0",
     "twilio": "^3.62.0",
     "txtgen": "^2.2.8",
-    "underscore": "^1.13.1",
     "validator": "^13.6.0"
   },
   "devDependencies": {
