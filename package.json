@@ -1,7 +1,7 @@
 {
-  "name": "test-twilio-ga",
+  "name": "mimush-kids-ga-bot",
   "version": "1.0.0",
-  "description": "Fetch Google Analytics insights using Twilio & WhatsApp",
+  "description": "Fetch Mimush Kids GA insights easily using WhatsApp bot",
   "main": "lib/app.js",
   "scripts": {
     "start": "nodemon lib/app.js"
